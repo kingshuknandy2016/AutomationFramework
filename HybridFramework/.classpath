@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/OSGi%Minimum-1.2"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="C:/WorkSpace/BeallsWorkSpaceUpdated/HybridFramework/Lib/java-rt-jar-stubs-1.5.0.jar"/>
+	<classpathentry kind="lib" path="C:/WorkSpace/BeallsWorkSpaceUpdated/HybridFramework/Lib/poi-3.9.jar"/>
+	<classpathentry kind="lib" path="C:/WorkSpace/BeallsWorkSpaceUpdated/HybridFramework/Lib/poi-ooxml-3.9.jar"/>
+	<classpathentry kind="lib" path="C:/WorkSpace/BeallsWorkSpaceUpdated/HybridFramework/Lib/selenium-server-standalone-2.53.0.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
