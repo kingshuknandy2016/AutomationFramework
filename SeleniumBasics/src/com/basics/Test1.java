@@ -13,7 +13,7 @@ public class Test1 {
 		driver.get("https://www.google.co.in/webhp?sourceid=chrome-instant&ion=1&espv=2&ie=UTF-8#q=infostretch%20pune%20office");
 
 		WebElement googleSearch= driver.findElement(By.className("primary"));
-		googleSearch.sendKeys("");  
+		googleSearch.sendKeys("Kingshuk is Awesome");  
 	}
 
 }
